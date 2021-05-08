@@ -13,6 +13,7 @@ Hi There !! This is [Thiri!](https://github.com/thirihsumyataung) 👋
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
   ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Netlify Status](https://api.netlify.com/api/v1/badges/d71342c7-b9c0-4ebc-adfe-a88e5720e164/deploy-status)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thirihsumyataung&layout=compact)  
